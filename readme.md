@@ -62,4 +62,4 @@ eas build -p ios
 
 ## Author 💡
 
-- **Your Name** ([GitHub](https://github.com/Shwetanshu13))
+- **Shwetanshu Sinha** ([GitHub](https://github.com/Shwetanshu13))
